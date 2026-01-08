@@ -150,7 +150,7 @@ User dapat mengedit diary yang sudah dibuat.
 
 User dapat menghapus diary dengan konfirmasi.
 
-![foto]()
+![foto](https://github.com/NadhiaShafira/Apk_DiaryOnline_-UAS-/blob/df08c2233ece5e590650a594dce90135b5de75d5/pict_projectUAS/hapus_confirm.png)
 
 **👑 Halaman Admin**
 
