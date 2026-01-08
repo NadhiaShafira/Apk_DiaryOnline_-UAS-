@@ -138,7 +138,7 @@ User dapat menulis diary dengan judul dan isi.
 
 User dapat melihat daftar diary miliknya.
 
-![foto]()
+![foto](https://github.com/NadhiaShafira/Apk_DiaryOnline_-UAS-/blob/736ba14e43b6c379ac3eed9bad24545ca2a718f7/pict_projectUAS/catatan.png)
 
 **✏️ Update – Edit Diary**
 
