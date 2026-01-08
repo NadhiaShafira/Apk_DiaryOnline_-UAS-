@@ -106,7 +106,7 @@ Tabel diary
 | isi     | Isi diary   |
 | tanggal | Tanggal     |
 
-![foto]()
+![foto](https://github.com/NadhiaShafira/Apk_DiaryOnline_-UAS-/blob/4805b5e451465a6a7bbf4c245457ec049685edfb/pict_projectUAS/database_diary.png)
 
 **🔐 Sistem Login & Role**
 
