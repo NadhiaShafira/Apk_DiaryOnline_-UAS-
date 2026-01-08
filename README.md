@@ -158,7 +158,7 @@ Admin memiliki halaman khusus untuk melihat seluruh diary dari semua user.
 
 ![foto](https://github.com/NadhiaShafira/Apk_DiaryOnline_-UAS-/blob/91e02ff9df9db7866d4e4cd251203f668cb99909/pict_projectUAS/admin_diary(1).png)
 
-![foto]()
+![foto](https://github.com/NadhiaShafira/Apk_DiaryOnline_-UAS-/blob/4391e58262c70461ab30d7de6b2441659f8efcb2/pict_projectUAS/admin_diary(2).png)
 
 **🧪 Pengujian**
 
