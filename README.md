@@ -122,7 +122,7 @@ Aplikasi memiliki dua role:
 
 2. Admin → melihat seluruh diary dari semua user
 
-![foto]()
+![foto](https://github.com/NadhiaShafira/Apk_DiaryOnline_-UAS-/blob/854a04a6c71ddf9445e7a1936f5a4a8243ad960b/pict_projectUAS/dashboard_admin.png)
 
 Session digunakan untuk menyimpan data login dan role pengguna.
 
