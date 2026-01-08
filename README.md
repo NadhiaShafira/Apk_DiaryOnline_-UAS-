@@ -78,7 +78,7 @@ diary_gemes/
 
 └── README.md
 
-![foto]()
+![foto](https://github.com/NadhiaShafira/Apk_DiaryOnline_-UAS-/blob/3d1c872f2d916233bebca47fe4af6411018e098f/pict_projectUAS/struktur_folder.png)
 
 **🗄️ Database**
 
