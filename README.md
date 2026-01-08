@@ -144,7 +144,7 @@ User dapat melihat daftar diary miliknya.
 
 User dapat mengedit diary yang sudah dibuat.
 
-![foto]()
+![foto](https://github.com/NadhiaShafira/Apk_DiaryOnline_-UAS-/blob/a1c9a62e485531d8fb09f09d998cd0eaa0460fd1/pict_projectUAS/edit_diary.png)
 
 **🗑️ Delete – Hapus Diary**
 
