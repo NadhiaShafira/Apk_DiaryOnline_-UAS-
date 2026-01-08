@@ -94,7 +94,7 @@ Tabel users
 | password | Password      |
 | role     | admin / user  |
 
-![foto]()
+![foto](https://github.com/NadhiaShafira/Apk_DiaryOnline_-UAS-/blob/2c2e75abe434968ccbdcc203273da82f007ffa37/pict_projectUAS/database_users.png)
 
 Tabel diary
 
