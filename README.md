@@ -132,7 +132,7 @@ Session digunakan untuk menyimpan data login dan role pengguna.
 
 User dapat menulis diary dengan judul dan isi.
 
-![foto]()
+![foto](https://github.com/NadhiaShafira/Apk_DiaryOnline_-UAS-/blob/073e0611dcfc7f983f0143b10485c7a04e686c0b/pict_projectUAS/tulis_diary.png)
 
 **📖 Read – Lihat Diary**
 
