@@ -110,19 +110,21 @@ Tabel diary
 
 **🔐 Sistem Login & Role**
 
+_Tampilan Saat Login_
+
+![foto](https://github.com/NadhiaShafira/Apk_DiaryOnline_-UAS-/blob/3a85c722d8033f9358ccacb3f839815f9a002a58/pict_projectUAS/login.png)
+
 Aplikasi memiliki dua role:
 
 1. User → menulis, melihat, mengedit, dan menghapus diary pribadi
 
+![foto](https://github.com/NadhiaShafira/Apk_DiaryOnline_-UAS-/blob/540570389bc2412c529b065698c25d288fb04056/pict_projectUAS/dashboard_user.png)
+
 2. Admin → melihat seluruh diary dari semua user
 
+![foto]()
+
 Session digunakan untuk menyimpan data login dan role pengguna.
-
-![foto](https://github.com/NadhiaShafira/Apk_DiaryOnline_-UAS-/blob/3a85c722d8033f9358ccacb3f839815f9a002a58/pict_projectUAS/login.png)
-
-![foto]()
-
-![foto]()
 
 **📌 Fitur Aplikasi (CRUD)**
 
