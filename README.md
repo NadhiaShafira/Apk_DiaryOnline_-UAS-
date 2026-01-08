@@ -156,7 +156,7 @@ User dapat menghapus diary dengan konfirmasi.
 
 Admin memiliki halaman khusus untuk melihat seluruh diary dari semua user.
 
-![foto]()
+![foto](https://github.com/NadhiaShafira/Apk_DiaryOnline_-UAS-/blob/91e02ff9df9db7866d4e4cd251203f668cb99909/pict_projectUAS/admin_diary(1).png)
 
 ![foto]()
 
