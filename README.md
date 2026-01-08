@@ -118,7 +118,7 @@ Aplikasi memiliki dua role:
 
 Session digunakan untuk menyimpan data login dan role pengguna.
 
-![foto]()
+![foto](https://github.com/NadhiaShafira/Apk_DiaryOnline_-UAS-/blob/3a85c722d8033f9358ccacb3f839815f9a002a58/pict_projectUAS/login.png)
 
 ![foto]()
 
