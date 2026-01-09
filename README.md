@@ -198,6 +198,52 @@ Email    : user@gmail.com
 Password : 12345
 Nama     : User Cantik
 
+**📌 Fitur Pagination (User)**
+
+**Deskripsi**
+
+Pagination pada halaman Catatan Aku (User) digunakan untuk membatasi jumlah diary yang ditampilkan dalam satu halaman agar tampilan lebih rapi dan mudah dibaca.
+
+Fitur ini dibuat menggunakan query MySQL LIMIT dan OFFSET.
+
+**Cara Kerja**
+
+Setiap halaman menampilkan 3 diary
+
+Jika jumlah diary lebih dari 3, maka akan muncul nomor halaman
+
+User hanya dapat melihat diary miliknya sendiri
+
+Contoh Implementasi
+
+Pagination diatur pada controller dengan perhitungan halaman dan offset, kemudian ditampilkan pada view catatan user.
+
+![foto]()
+
+![foto]()
+
+**📌 Fitur Pagination (Admin)**
+
+**Deskripsi**
+
+Pagination pada halaman Admin – Semua Diary digunakan untuk menampilkan data diary dari seluruh user secara bertahap.
+Fitur ini memudahkan admin dalam mengelola data diary tanpa menampilkan terlalu banyak data dalam satu halaman.
+
+**Cara Kerja**
+
+Admin dapat melihat semua diary dari seluruh user
+
+Data ditampilkan per halaman menggunakan LIMIT dan OFFSET
+
+Admin memiliki hak untuk melihat, mengedit, dan menghapus seluruh diary
+
+Contoh Implementasi
+
+Pagination diterapkan pada halaman admin dengan query yang mengambil seluruh data diary dari database.
+
+![foto]()
+
+![foto]()
 
 **🧾 Kesimpulan**
 
