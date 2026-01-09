@@ -218,6 +218,8 @@ Contoh Implementasi
 
 Pagination diatur pada controller dengan perhitungan halaman dan offset, kemudian ditampilkan pada view catatan user.
 
+![foto](https://github.com/NadhiaShafira/Apk_DiaryOnline_-UAS-/blob/444c71f8bda428badee1bff6df5dffa24fbfca23/pict_projectUAS/user_catatan_page1.png)
+
 ![foto]()
 
 ![foto]()
