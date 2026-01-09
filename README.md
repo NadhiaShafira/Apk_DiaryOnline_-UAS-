@@ -245,7 +245,7 @@ Pagination diterapkan pada halaman admin dengan query yang mengambil seluruh dat
 
 ![foto](https://github.com/NadhiaShafira/Apk_DiaryOnline_-UAS-/blob/8c6c67e5362276735749258ee921a88d40733999/pict_projectUAS/admin_diary_page1.png)
 
-![foto]()
+![foto](https://github.com/NadhiaShafira/Apk_DiaryOnline_-UAS-/blob/6a0046945f6c60cbc7a6b7bdb49f35acc54d8504/pict_projectUAS/admin_diary_page2.png)
 
 **🧾 Kesimpulan**
 
