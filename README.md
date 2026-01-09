@@ -222,7 +222,7 @@ Pagination diatur pada controller dengan perhitungan halaman dan offset, kemudia
 
 ![foto](https://github.com/NadhiaShafira/Apk_DiaryOnline_-UAS-/blob/ae27acfcf09af08e0f7271d2cc7202db75562c0d/pict_projectUAS/user_catatan_page2.png)
 
-![foto]()
+![foto](https://github.com/NadhiaShafira/Apk_DiaryOnline_-UAS-/blob/fa3c5571e581bd9172d99b2fa931cf54fc4e1042/pict_projectUAS/user_catatan_page3.png)
 
 **📌 Fitur Pagination (Admin)**
 
