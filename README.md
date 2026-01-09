@@ -243,7 +243,7 @@ Contoh Implementasi
 
 Pagination diterapkan pada halaman admin dengan query yang mengambil seluruh data diary dari database.
 
-![foto]()
+![foto](https://github.com/NadhiaShafira/Apk_DiaryOnline_-UAS-/blob/8c6c67e5362276735749258ee921a88d40733999/pict_projectUAS/admin_diary_page1.png)
 
 ![foto]()
 
