@@ -254,3 +254,7 @@ Aplikasi Diary Online ini telah berhasil menerapkan sistem login dengan role adm
 **❤️ Penutup**
 
 Proyek ini dibuat untuk memenuhi tugas UAS Pemrograman Web dan diharapkan dapat menjadi dasar pengembangan aplikasi web sederhana.
+
+**LINK YOUTOUBE**
+
+(https://youtu.be/W5E7F4cBZUI) 
